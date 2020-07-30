@@ -16,7 +16,7 @@ Build a simple single page app that:
 - Shopify API KEY: b4ae10a58cdad4e4107e31ba83a455b5
 - Shopify API Pass: *Will be provided to you*
 
-### Search - optional
+#### Optional subtask
 Searching a product should show the search results without refreshing the page.
 
 
