@@ -9,13 +9,12 @@ All assets (images, icons) are of your choice. Inline SVG is preferable.
 Build a simple single page app that:
 - Fitches products from Shopify (Using Shopify api) - You can use REST APIs or GraphQL.
 - Saves the products (And all product fiels) in a postgresql DB.
-- Shows the products index page. (Design is given below, display fields based on your understanding of the design).
+- Shows the products index page. (Design is given below, display fields based on your understanding of the design). 
+***Use fetched Shopify data to create responsive card view for profucts with a header, toolbar and search.
 
 ### Shopify API Key
-Shopify API KEY: b4ae10a58cdad4e4107e31ba83a455b5
-Shopify API Pass: *Will be provided to you*
-
-Use fetched Shopify data to create responsive card view for profucts with a header, toolbar and search.
+- Shopify API KEY: b4ae10a58cdad4e4107e31ba83a455b5
+- Shopify API Pass: *Will be provided to you*
 
 ### Search - optional
 Searching a product should show the search results without refreshing the page.
