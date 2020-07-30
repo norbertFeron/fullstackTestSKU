@@ -7,7 +7,7 @@ All assets (images, icons) are of your choice. Inline SVG is preferable.
 
 ## Task - Fetch Products from Shopify:
 Build a simple single page app that:
-- Fitches proucts from Shopify (Using Shopify api) - You can use REST APIs or GraphQL.
+- Fitches products from Shopify (Using Shopify api) - You can use REST APIs or GraphQL.
 - Saves the products (And all product fiels) in a postgresql DB.
 - Shows the products index page. (Design is given below, display fields based on your understanding of the design).
 
