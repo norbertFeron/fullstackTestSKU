@@ -20,6 +20,7 @@ Build a simple single page app that:
 Searching a product should show the search results without refreshing the page.
 
 
+### Desgin
 ![Products page](https://arabian-giftcards.fra1.digitaloceanspaces.com/SKU.png)
 
 
