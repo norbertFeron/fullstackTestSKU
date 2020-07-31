@@ -2,7 +2,7 @@
 Requirements:
 
 Stack - NodeJS, Express, Postgresql with React and app state management library (Redux, MobX or Recoil), TypeScript. Functional style is preferable. No UI frameworks, or style libraries, CSS/SCSS only.
-Deploy using Google Cloud Platform.
+Deploy using Google Cloud Platform. (Register for a free Google Cloudd Account - https://cloud.google.com/)
 
 All assets (images, icons) are of your choice. Inline SVG is preferable.
 
