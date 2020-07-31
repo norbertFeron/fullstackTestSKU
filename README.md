@@ -2,6 +2,7 @@
 Requirements:
 
 Stack - NodeJS, Express, Postgresql with React and app state management library (Redux, MobX or Recoil), TypeScript. Functional style is preferable. No UI frameworks, or style libraries, CSS/SCSS only.
+Deploy using Google Cloud Platform.
 
 All assets (images, icons) are of your choice. Inline SVG is preferable.
 
@@ -133,6 +134,14 @@ class App extends Component {
 
 export default App;
 ```
+
+# Submitting Results:
+#### Task 1:
+- Provide a github repository with the solution.
+- Provide a link to access the deployed solution.
+
+#### Task 2:
+- Provide a github repository with the solution.
 
 ### Thank you and good luck :)
 
