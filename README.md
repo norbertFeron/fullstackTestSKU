@@ -13,7 +13,8 @@ Build a simple single page app that:
 - Shows the products index page. (Design is given below, display fields based on your understanding of the design). 
 ***Use fetched Shopify data to create responsive card view for profucts with a header, toolbar and search.
 
-### Shopify API Key
+### Shopify info
+- Store link: https://skutopia-test.myshopify.com/admin
 - Shopify API KEY: b4ae10a58cdad4e4107e31ba83a455b5
 - Shopify API Pass: *Will be provided to you*
 
