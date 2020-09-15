@@ -13,7 +13,7 @@ import * as serviceWorker from './serviceWorker';
 
 const cache = new InMemoryCache();
 
-const httpLink = new HttpLink({ uri: "http://localhost:3000" });
+const httpLink = new HttpLink({ uri: "http://api.fullstacksku.ts.r.appspot.com/" });
 
 const client = new ApolloClient({
   link: httpLink,

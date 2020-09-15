@@ -1,0 +1,9 @@
+# [START app_yaml]
+runtime: nodejs 
+service: api
+env: flex  
+
+beta_settings:
+    cloud_sql_instances: fullstacksku:australia-southeast1:databasesku
+    
+# [END app_yaml]
