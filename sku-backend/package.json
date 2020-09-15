@@ -1,0 +1,23 @@
+{
+  "name": "sku-backend",
+  "version": "1.0.0",
+  "description": "Backend app for sku-test",
+  "main": "app.js",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "dotenv": "^8.2.0",
+    "express": "^4.17.1",
+    "express-graphql": "^0.11.0",
+    "graphql": "^15.3.0",
+    "pg-promise": "^10.6.1"
+  },
+  "devDependencies": {
+    "nodemon": "^2.0.4"
+  },
+  "scripts": {
+    "start": "node app.js",
+    "dev": "nodemon app.js"
+  },
+  "author": "nferon",
+  "license": "ISC"
+}
